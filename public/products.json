@@ -1,0 +1,180 @@
+[
+    {
+        "id": 1,
+        "title": "Adicolor Classics Joggers",
+        "category": "Dress",
+        "price": 63.85,
+        "image": "/images/products/image1.png",
+        "status": "Best Selers",
+        "description": "Stay comfortable and stylish with the Adicolor Classics Joggers. Designed with premium cotton-blend fabric, these joggers provide all-day comfort. Featuring an adjustable drawstring waistband and side pockets, they're both functional and fashionable. Perfect for workouts or casual outings.",
+        "highlights": [
+            "Made from high-quality cotton-blend fabric.",
+            "Adjustable drawstring waistband for a custom fit.",
+            "Side pockets for added functionality.",
+            "Ideal for workouts or casual outings.",
+            "Available in multiple colors and sizes."
+        ],
+        "reviews": [
+            {"rating": 5, "comment": "Super comfortable and stylish!"},
+            {"rating": 4, "comment": "Great fit, but the color fades a bit after washing."},
+            {"rating": 5, "comment": "Perfect for lounging or working out."},
+            {"rating": 4, "comment": "Nice material but runs a little long."}
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Nike Sportswear Futura Luxe",
+        "category": "Bag",
+        "price": 130.00,
+        "image": "/images/products/image2.png",
+        "status": "Best Selers",
+        "description": "The Nike Sportswear Futura Luxe is your perfect companion for daily errands or weekend getaways. Crafted from durable materials, it features multiple compartments for organized storage. Stylish design with adjustable straps for a custom fit.",
+        "highlights": [
+            "Durable construction for long-term use.",
+            "Multiple compartments for organized storage.",
+            "Adjustable straps for personalized comfort.",
+            "Sleek and stylish design for versatile use.",
+            "Lightweight yet spacious interior."
+        ],
+        "reviews": [
+            {"rating": 5, "comment": "High-quality and spacious!"},
+            {"rating": 4, "comment": "Stylish but a bit expensive."},
+            {"rating": 5, "comment": "Perfect for carrying essentials."},
+            {"rating": 3, "comment": "The strap could be more comfortable."}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Geometric print Scarf",
+        "category": "Dress",
+        "price": 53.00,
+        "image": "/images/products/image3.png",
+        "status": "Best Selers",
+        "description": "Elevate your outfit with the Geometric Print Scarf. Made from soft and breathable fabric, this scarf is perfect for any season. Unique geometric patterns add a modern touch to your look.",
+        "highlights": [
+            "Soft and breathable fabric for all-day comfort.",
+            "Unique geometric patterns for a contemporary style.",
+            "Lightweight design ideal for year-round wear.",
+            "Versatile accessory for casual or formal outfits.",
+            "Easy to care for and maintain."
+        ],
+        "reviews": [
+            {"rating": 5, "comment": "Beautiful design and soft fabric."},
+            {"rating": 4, "comment": "Versatile and goes with many outfits."},
+            {"rating": 5, "comment": "Exceeded my expectations!"},
+            {"rating": 3, "comment": "Could be a little longer for winter use."}
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Yellow Reserved Hoodie",
+        "category": "Hoodies",
+        "price": 63.85,
+        "image": "/images/products/image4.png",
+        "status": "Best Selers",
+        "description": "Brighten your wardrobe with the Yellow Reserved Hoodie. Made from soft, durable fabric, it ensures warmth and comfort. Features a roomy hood and kangaroo pocket for extra coziness.",
+        "highlights": [
+            "Soft and durable fabric for lasting comfort.",
+            "Roomy hood for additional warmth.",
+            "Kangaroo pocket for practical storage.",
+            "Bright and vibrant color for a trendy look.",
+            "Relaxed fit ideal for layering."
+        ],
+        "reviews": [
+            {"rating": 5, "comment": "Bright and eye-catching!"},
+            {"rating": 4, "comment": "Soft material but slightly oversized."},
+            {"rating": 5, "comment": "Great hoodie for casual wear."},
+            {"rating": 3, "comment": "Color is brighter than expected."}
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Basic Dress Green",
+        "category": "Dress",
+        "price": 236.00,
+        "image": "/images/products/image5.png",
+        "status": "Best Selers",
+        "description": "Make a statement with the Basic Dress in Green. This elegant piece is tailored to perfection with a flattering fit. Made from premium fabric for a luxurious feel, it’s perfect for formal events or date nights.",
+        "highlights": [
+            "Elegant design with a flattering fit.",
+            "Premium fabric for a luxurious feel.",
+            "Ideal for formal occasions and special events.",
+            "Easy to accessorize for versatile styling.",
+            "Available in a variety of sizes."
+        ],
+        "reviews": [
+            {"rating": 5, "comment": "Elegant and classy design."},
+            {"rating": 4, "comment": "Fits well but is a bit pricey."},
+            {"rating": 5, "comment": "Perfect for special occasions."},
+            {"rating": 4, "comment": "Material feels luxurious but wrinkles easily."}
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Nike Air Zoom Pegasus",
+        "category": "Shoe",
+        "price": 198.00,
+        "image": "/images/products/image6.png",
+        "status": "Best Sellers",
+        "description": "Experience comfort and speed with the Nike Air Zoom Pegasus. Designed for runners who seek performance and style, this shoe offers unparalleled support and cushioning.",
+        "highlights": [
+            "Responsive Zoom Air cushioning for maximum comfort.",
+            "Lightweight and breathable mesh upper.",
+            "Durable outsole for long-lasting wear.",
+            "Sleek design for both casual and athletic use.",
+            "Available in multiple colorways."
+        ],
+        "reviews": [
+            { "rating": 5, "comment": "Fantastic running shoe, very comfortable!" },
+            { "rating": 4, "comment": "Great design but could use more arch support." },
+            { "rating": 5, "comment": "Perfect for long-distance runs." },
+            { "rating": 4, "comment": "Stylish and functional, but slightly narrow." }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Nike Repel Miler",
+        "category": "Hoodies",
+        "price": 120.50,
+        "image": "/images/products/image7.png",
+        "status": "Best Sellers",
+        "description": "Stay warm and comfortable with the Nike Repel Miler Hoodie. Designed for athletes, this hoodie offers protection from the elements while ensuring breathability and style.",
+        "highlights": [
+            "Water-repellent fabric for light weather protection.",
+            "Adjustable hood for added coverage.",
+            "Soft fleece lining for enhanced warmth.",
+            "Relaxed fit for all-day comfort.",
+            "Perfect for training and casual wear."
+        ],
+        "reviews": [
+            { "rating": 5, "comment": "Keeps me warm and dry during morning runs." },
+            { "rating": 4, "comment": "Comfortable but could use deeper pockets." },
+            { "rating": 5, "comment": "Amazing quality and fit!" },
+            { "rating": 4, "comment": "Stylish and functional but slightly overpriced." }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Nike Sportswear Futura Luxe",
+        "category": "Glasses",
+        "price": 160.00,
+        "image": "/images/products/image8.png",
+        "status": "New Arrival",
+        "description": "Elevate your accessory game with the Nike Sportswear Futura Luxe Glasses. A perfect blend of style and functionality, these glasses offer premium protection and a modern design.",
+        "highlights": [
+            "High-quality lenses for UV protection.",
+            "Lightweight and durable frame for all-day wear.",
+            "Sophisticated design for versatile styling.",
+            "Anti-glare coating for clear vision in any light.",
+            "Comes with a protective case and cleaning cloth."
+        ],
+        "reviews": [
+            { "rating": 5, "comment": "Stylish and functional, perfect for sunny days." },
+            { "rating": 4, "comment": "Great quality but slightly expensive." },
+            { "rating": 5, "comment": "Love the design and the lightweight frame!" },
+            { "rating": 4, "comment": "Comfortable but could use polarized lenses." }
+        ]
+    }
+   
+
+]
