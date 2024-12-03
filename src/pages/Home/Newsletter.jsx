@@ -1,5 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import img1 from '../../../public/images/instagram/img1.png'
+import img2 from '../../../public/images/instagram/img2.png'
+import img3 from '../../../public/images/instagram/img3.png'
+import img4 from '../../../public/images/instagram/img4.png'
+import img5 from '../../../public/images/instagram/img5.png'
+import img6 from '../../../public/images/instagram/img6.png'
 
 const Newsletter = () => {
   return (
@@ -10,12 +16,12 @@ const Newsletter = () => {
 
         {/* insta grid */}
         <div className='flex flex-wrap gap-4 items-center justify-center mb-20'>
-            <Link><img src="/images/instagram/img1.png" alt="" /></Link>
-            <Link><img src="/images/instagram/img2.png" alt="" /></Link>
-            <Link><img src="/images/instagram/img3.png" alt="" /></Link>
-            <Link><img src="/images/instagram/img4.png" alt="" /></Link>
-            <Link><img src="/images/instagram/img5.png" alt="" /></Link>
-            <Link><img src="/images/instagram/img6.png" alt="" /></Link>
+            <Link><img src={img1} alt="" /></Link>
+            <Link><img src={img2} alt="" /></Link>
+            <Link><img src={img3} alt="" /></Link>
+            <Link><img src={img4} alt="" /></Link>
+            <Link><img src={img5} alt="" /></Link>
+            <Link><img src={img6} alt="" /></Link>
         </div>
 
         {/* newsletter */}
