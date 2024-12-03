@@ -5,7 +5,7 @@ import Products from './Products'
 import Collection from './Collection'
 import BestSeller from './BestSeller'
 import Client from './Client'
-import Newsletter from './NewsLetter'
+// import Newsletter from './NewsLetter'
 import Footer from '../../components/Footer'
 
 const Home = () => {
